@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="subsectorXMLtrasformation.xsl"?>
+    <subsector title="Ass end of nowhere">
+        <hex hexid="0101" />
+        <hex hexid="0102">
+            <contents>
+                <system name="Hyperion">
+                    <world name="Keats" syscapital="true" upp="A410585" tech="11" water="false">
+                        <tradeClassifications>
+                            <fulltext>Non-Agricultural; Non-industrial;</fulltext>
+                            <class>Na</class>
+                            <class>Ni</class>
+                        </tradeClassifications>
+                        <notes>
+                            Mining world. Subsector Capital.
+                        </notes>
+                    </world>
+                    <navalBase />
+                    <gasGiant />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0103" />
+        <hex hexid="0104" />
+        <hex hexid="0105">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B685311" tech="8" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0106" />
+        <hex hexid="0107">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C556263" tech="3" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0108">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="E688220" tech="8" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0109" />
+        <hex hexid="0110" />
+        <hex hexid="0111" />
+        <hex hexid="0201" />
+        <hex hexid="0202" />
+        <hex hexid="0203">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B410540" tech="14" water="false" />
+                    <navalBase />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0204" />
+        <hex hexid="0205" />
+        <hex hexid="0206" />
+        <hex hexid="0207" />
+        <hex hexid="0208" />
+        <hex hexid="0209">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B300640" tech="11" water="false" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0210" />
+        <hex hexid="0301">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C133599" tech="9" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0302">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C558742" tech="7" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0303" />
+        <hex hexid="0304" />
+        <hex hexid="0305" />
+        <hex hexid="0306">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="E475845" tech="7" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0307" />
+        <hex hexid="0308" />
+        <hex hexid="0309" />
+        <hex hexid="0310" />
+        <hex hexid="0311" />
+        <hex hexid="0401" />
+        <hex hexid="0402">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="D443589" tech="7" water="true" />
+                    <scoutBase />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0403" />
+        <hex hexid="0404">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B100647" tech="8" water="false" />
+                    <scoutBase />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0405" />
+        <hex hexid="0406">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="A898201" tech="11" water="true" />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0407" />
+        <hex hexid="0408" />
+        <hex hexid="0409" />
+        <hex hexid="0410" />
+        <hex hexid="0501">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="A400332" tech="13" water="false" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0502" />
+        <hex hexid="0503">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B459400" tech="10" water="true" />
+                    <navalBase />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0504">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C77A413" tech="7" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0505" />
+        <hex hexid="0506">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B245000" tech="0" water="true" />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0507" />
+        <hex hexid="0508" />
+        <hex hexid="0509">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B78A300" tech="13" water="true" />
+                    <navalBase />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0510">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B344540" tech="10" water="true" />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0511" />
+        <hex hexid="0601" />
+        <hex hexid="0602" />
+        <hex hexid="0603">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B546222" tech="8" water="true" />
+                    <navalBase />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0604">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C44288D" tech="5" water="true" />
+                    <scoutBase />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0605" />
+        <hex hexid="0606">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B9AAACH" tech="H" water="true" />
+                    <notes>
+                        Restricted travel.
+                    </notes>
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0607">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B986766" tech="7" water="true" />
+                    <navalBase />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0608" />
+        <hex hexid="0609" />
+        <hex hexid="0610" />
+        <hex hexid="0701" />
+        <hex hexid="0702" />
+        <hex hexid="0703" />
+        <hex hexid="0704" />
+        <hex hexid="0705" />
+        <hex hexid="0706" />
+        <hex hexid="0707" />
+        <hex hexid="0708">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="B100450" tech="E" water="false" />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0709" />
+        <hex hexid="0710" />
+        <hex hexid="0711" />
+        <hex hexid="0801" />
+        <hex hexid="0802" />
+        <hex hexid="0803">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="E849337" tech="4" water="true" />
+                    <gasGiant />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0804" />
+        <hex hexid="0805">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C538585" tech="5" water="true" />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+        <hex hexid="0806" />
+        <hex hexid="0807" />
+        <hex hexid="0808" />
+        <hex hexid="0809" />
+        <hex hexid="0810">
+            <contents>
+                <system name="">
+                    <world name="" syscapital="true" upp="C6307A7" tech="6" water="false" />
+                    <notes />
+                </system>
+            </contents>
+        </hex>
+    </subsector>
