@@ -40,9 +40,9 @@ def assginClassifications(xmlfile):
         world.append(tc)
     return xml
 
-xml = assginClassifications("sample2.xml")
-xslxml = et.parse("subsectorXMLtrasformation.xsl")
-xsl = et.XSLT(xslxml)
-stuff = xsl(xml)
-stuff.write("junk.html")
-xml.write("sample3.xml")
+# xml = assginClassifications("sample2.xml")
+# xslxml = et.parse("subsectorXMLtrasformation.xsl")
+# xsl = et.XSLT(xslxml)
+# stuff = xsl(xml)
+# stuff.write("junk.html")
+# xml.write("sample3.xml")
