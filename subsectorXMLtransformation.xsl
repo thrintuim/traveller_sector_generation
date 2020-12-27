@@ -56,7 +56,7 @@
                 stroke: #000;
             }
             </style>
-            <script src="tradeSelection.js"></script>
+            <script src="tradeSelection.js"><xsl:text> </xsl:text></script>
         </head>
 
         <body>
@@ -108,7 +108,6 @@
     <xsl:template match="hex">
         <xsl:variable name="hexNumber" select="@hexid" />
         <xsl:element name="g" namespace="{'http://www.w3.org/2000/svg'}">
-            <!-- <xsl:if  -->
             <xsl:element name="title" namespace="{'http://www.w3.org/2000/svg'}">
                 <xsl:for-each select=".//world">
                     <xsl:variable name="currentWorld" select="." />

@@ -1,8 +1,8 @@
-<?xml-stylesheet type="text/xsl" href="subsectorXMLtrasformation.xsl"?><subsector title="Ass end of nowhere">
+<?xml-stylesheet type="text/xsl" href="subsectorXMLtransformation.xsl"?><subsector title="Ass end of nowhere">
         <hex hexid="0101"/>
         <hex hexid="0102">
             <contents>
-                <system name="Hyperion">
+                <system name="Keats">
                     <world name="Keats" syscapital="true" upp="A410585" tech="11" water="false">
                         <notes>
                             Mining world. Subsector Capital.
@@ -17,7 +17,7 @@
         <hex hexid="0104"/>
         <hex hexid="0105">
             <contents>
-                <system name="">
+                <system name="Barr">
                     <world name="Barr" syscapital="true" upp="B685311" tech="8" water="true">
                         <tradeClassifications><class>Lo</class><class>Ni</class><tradeNotes>Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -28,7 +28,7 @@
         <hex hexid="0106"/>
         <hex hexid="0107">
             <contents>
-                <system name="">
+                <system name="York">
                     <world name="York" syscapital="true" upp="C556263" tech="3" water="true">
                         <tradeClassifications><class>Lo</class><class>Ni</class><tradeNotes>Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -38,7 +38,7 @@
         </hex>
         <hex hexid="0108">
             <contents>
-                <system name="">
+                <system name="Emerson">
                     <world name="Emerson" syscapital="true" upp="E688220" tech="8" water="true">
                         <tradeClassifications><class>Lo</class><class>Ni</class><tradeNotes>Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -52,7 +52,7 @@
         <hex hexid="0202"/>
         <hex hexid="0203">
             <contents>
-                <system name="">
+                <system name="Brom">
                     <world name="Brom" syscapital="true" upp="B410540" tech="14" water="false">
                         <tradeClassifications><class>De</class><class>Ni</class><tradeNotes>Desert world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <navalBase/>
@@ -68,7 +68,7 @@
         <hex hexid="0208"/>
         <hex hexid="0209">
             <contents>
-                <system name="">
+                <system name="Viskar">
                     <world name="Viskar" syscapital="true" upp="B300640" tech="11" water="false">
                         <tradeClassifications><class>Va</class><class>Na</class><class>Ni</class><tradeNotes>Vacuum world; Non-agricultural world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -79,7 +79,7 @@
         <hex hexid="0210"/>
         <hex hexid="0301">
             <contents>
-                <system name="">
+                <system name="Sprite">
                     <world name="Sprite" syscapital="true" upp="C133599" tech="9" water="true">
                         <tradeClassifications><class>Po</class><class>Ni</class><tradeNotes>Poor world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -102,7 +102,7 @@
         <hex hexid="0305"/>
         <hex hexid="0306">
             <contents>
-                <system name="">
+                <system name="Fermis">
                     <world name="Fermis" syscapital="true" upp="E475845" tech="7" water="true">
                         <tradeClassifications><tradeNotes></tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -117,7 +117,7 @@
         <hex hexid="0401"/>
         <hex hexid="0402">
             <contents>
-                <system name="">
+                <system name="Arthur">
                     <world name="Arthur" syscapital="true" upp="D443589" tech="7" water="true">
                         <tradeClassifications><class>Po</class><class>Ni</class><tradeNotes>Poor world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <scoutBase/>
@@ -129,7 +129,7 @@
         <hex hexid="0403"/>
         <hex hexid="0404">
             <contents>
-                <system name="">
+                <system name="Marble">
                     <world name="Marble" syscapital="true" upp="B100647" tech="8" water="false">
                         <tradeClassifications><class>Va</class><class>Na</class><class>Ni</class><tradeNotes>Vacuum world; Non-agricultural world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <scoutBase/>
@@ -141,7 +141,7 @@
         <hex hexid="0405"/>
         <hex hexid="0406">
             <contents>
-                <system name="">
+                <system name="Crayven HQ">
                     <world name="Crayven HQ" syscapital="true" upp="A898201" tech="11" water="true">
                         <tradeClassifications><class>Lo</class><class>Ni</class><tradeNotes>Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <notes/>
@@ -154,7 +154,7 @@
         <hex hexid="0410"/>
         <hex hexid="0501">
             <contents>
-                <system name="">
+                <system name="Fenris HQ">
                     <world name="Fenris HQ" syscapital="true" upp="A400332" tech="13" water="false">
                         <tradeClassifications><class>Va</class><class>Lo</class><class>Ni</class><tradeNotes>Vacuum world; Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -165,18 +165,18 @@
         <hex hexid="0502"/>
         <hex hexid="0503">
             <contents>
-                <system name="">
+                <system name="Tortuga">
                     <world name="Tortuga" syscapital="true" upp="B459400" tech="10" water="true">
                         <tradeClassifications><class>Ni</class><tradeNotes>Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <navalBase/>
                     <gasGiant/>
-                    <notes/>
+                    <notes>Dark water station. Highport for repairs and junkyard.</notes>
                 </system>
             </contents>
         </hex>
         <hex hexid="0504">
             <contents>
-                <system name="">
+                <system name="Atlantis">
                     <world name="Atlantis" syscapital="true" upp="C77A413" tech="7" water="true">
                         <tradeClassifications><class>Wa</class><class>Ni</class><tradeNotes>Water world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -187,7 +187,7 @@
         <hex hexid="0505"/>
         <hex hexid="0506">
             <contents>
-                <system name="">
+                <system name="Base 234">
                     <world name="Base 234" syscapital="true" upp="B245000" tech="0" water="true">
                         <tradeClassifications><class>Ba</class><tradeNotes>Abandoned/Deserted World;</tradeNotes></tradeClassifications></world>
                     <notes/>
@@ -198,7 +198,7 @@
         <hex hexid="0508"/>
         <hex hexid="0509">
             <contents>
-                <system name="">
+                <system name="Innsmouth">
                     <world name="Innsmouth" syscapital="true" upp="B78A300" tech="13" water="true">
                         <tradeClassifications><class>Wa</class><class>Lo</class><class>Ni</class><tradeNotes>Water world; Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <navalBase/>
@@ -209,7 +209,7 @@
         </hex>
         <hex hexid="0510">
             <contents>
-                <system name="">
+                <system name="Elysium">
                     <world name="Elysium" syscapital="true" upp="B344540" tech="10" water="true">
                         <tradeClassifications><class>Ag</class><class>Ni</class><tradeNotes>Agricultural world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <notes/>
@@ -220,7 +220,7 @@
         <hex hexid="0602"/>
         <hex hexid="0603">
             <contents>
-                <system name="">
+                <system name="Outpost 123">
                     <world name="Outpost 123" syscapital="true" upp="B546222" tech="8" water="true">
                         <tradeClassifications><class>Lo</class><class>Ni</class><tradeNotes>Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <navalBase/>
@@ -230,7 +230,7 @@
         </hex>
         <hex hexid="0604">
             <contents>
-                <system name="">
+                <system name="Antwerp">
                     <world name="Antwerp" syscapital="true" upp="C44288D" tech="5" water="true">
                         <tradeClassifications><class>Po</class><tradeNotes>Poor world;</tradeNotes></tradeClassifications></world>
                     <scoutBase/>
@@ -242,7 +242,7 @@
         <hex hexid="0605"/>
         <hex hexid="0606">
             <contents>
-                <system name="">
+                <system name="######">
                     <world name="######" syscapital="true" upp="B9AAACH" tech="H" water="true">
                         <tradeClassifications><class>Fl</class><class>Hi</class><tradeNotes>Fluid OceansHigh Population;</tradeNotes></tradeClassifications></world>
                     <notes>
@@ -253,7 +253,7 @@
         </hex>
         <hex hexid="0607">
             <contents>
-                <system name="">
+                <system name="Papa">
                     <world name="Papa" syscapital="true" upp="B986766" tech="7" water="true">
                         <tradeClassifications><class>Ag</class><class>Ri</class><tradeNotes>Agricultural world; Rich world;</tradeNotes></tradeClassifications></world>
                     <navalBase/>
@@ -273,7 +273,7 @@
         <hex hexid="0707"/>
         <hex hexid="0708">
             <contents>
-                <system name="">
+                <system name="Ath">
                     <world name="Ath" syscapital="true" upp="B100450" tech="E" water="false">
                         <tradeClassifications><class>Va</class><class>Ni</class><tradeNotes>Vacuum world; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <notes/>
@@ -286,7 +286,7 @@
         <hex hexid="0802"/>
         <hex hexid="0803">
             <contents>
-                <system name="">
+                <system name="Mudhole">
                     <world name="Mudhole" syscapital="true" upp="E849337" tech="4" water="true">
                         <tradeClassifications><class>Lo</class><class>Ni</class><tradeNotes>Low Population; Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <gasGiant/>
@@ -297,7 +297,7 @@
         <hex hexid="0804"/>
         <hex hexid="0805">
             <contents>
-                <system name="">
+                <system name="Ash">
                     <world name="Ash" syscapital="true" upp="C538585" tech="5" water="true">
                         <tradeClassifications><class>Ni</class><tradeNotes>Non-industrial world;</tradeNotes></tradeClassifications></world>
                     <notes/>

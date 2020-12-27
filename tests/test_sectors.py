@@ -22,7 +22,7 @@ import unittest
 from .. import sectorGenerator as sg
 import lxml.etree as et
 
-count_sectors = et.XPath("count(sector)")
+count_sectors = et.XPath("count(/sector)")
 count_subsectors = et.XPath("count(/sector/subsector)")
 count_hexes = et.XPath("count(/sector/subsector/hex)")
 count_contents = et.XPath("count(.//hex/contents)")
