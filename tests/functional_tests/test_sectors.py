@@ -19,7 +19,7 @@ Possible test cases could be
 """
 
 import unittest
-from .. import sectorGenerator as sg
+import sectorGenerator as sg
 import lxml.etree as et
 
 count_sectors = et.XPath("count(/sector)")

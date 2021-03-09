@@ -1,5 +1,6 @@
 import collections
 import lxml.etree as et
+from subsectorGenerator import Subsector
 
 sector_data = collections.namedtuple(
     "sector_data",
@@ -9,5 +10,9 @@ sector_data = collections.namedtuple(
 
 
 def generate_sector(sector_data):
-    et.fromstring("<sector sectorName=''></sector>")
-    return et.fromstring("<sector />")
+    sector = et.fromstring("<sector sectorName=''></sector>")
+    for subsector_data in sector_data:
+        subsector = Subsector()
+        subsectorXml = subsector.generate_subsector(subsector_data)
+        sector.append(subsectorXml)
+    return sector
